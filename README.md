@@ -39,7 +39,7 @@ Welcome to my GitHub universe! 🚀 I'm passionate about building intelligent sy
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [AI Chat Assistant](/) | Intelligent chatbot with NLP capabilities | Python, TensorFlow, Django |
-| [Diggital assistant platform](/) | Full-stack resource hub  platform for my college | React, Django, PostgreSQL,BERT,PEGASUS |
+| [Diggital assistant platform](https://github.com/ajme-abes/MWU-Digital-Assistant.git) | Full-stack resource hub  platform for my college | React, Django, PostgreSQL,BERT,PEGASUS |
 | [ML Dashboard](/) | Interactive machine learning visualization tool | React, Python, Plotly |
 
 📈 GitHub Stats
