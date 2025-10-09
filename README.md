@@ -2,14 +2,14 @@
 <h3 align="center">AI/ML Engineer | Blockchain Enthusiast | Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=AI/ML+Engineer+%7C+ Blockchain+Developer; Building+Intelligent+ and+Decentralized+Solutions; Always+Learning+and+Creating+Something+New!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=AI/ML+Engineer+%7C+ Blockchain+Developer;Building+Intelligent+and+Decentralized+Solutions;Always+Learning+and+Creating+Something+New!" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 🚀 About Me  
 - 🎓 I'm a **Computer Science student** passionate about **AI, ML, and LLMs**  
-- 🤖 Currently improving my expertise in **Machine Learning & Natural Language Processing**  
+- 🤖 Currently improving my expertise in **Machine Learning & Large Language Models**  
 - ⛓️ Enthusiastic about **Blockchain** and decentralized systems  
 - 💼 Open to **freelance projects** and **collaborations** in AI or Web3  
 - 📚 Always learning — one project, one idea at a time  
