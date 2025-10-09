@@ -2,7 +2,9 @@
 <h3 align="center">AI/ML Engineer | Blockchain Enthusiast | Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=AI/ML+Engineer+%7C+ Blockchain+Developer;Building+Intelligent+and+Decentralized+Solutions;Always+Learning+and+Creating+Something+New!" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML%20Engineer%20%7C%20Blockchain%20Developer;Building%20Intelligent%20and%20Decentralized%20Solutions;Always%20Learning%20and%20Creating%20Something%20New%21"
+    alt="Typing Animation" />
 </p>
 
 ---
