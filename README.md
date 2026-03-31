@@ -50,8 +50,7 @@ Full-stack chatbot for real-world tourism guidance.
 - 95%+ intent recognition accuracy  
 - Optimized response time (<300ms)  
 
-🔗 Portfolio: https://ajme-beige.vercel.app/  
-
+🔗 Demo: https://baale-mountain.netlify.app/
 ---
 
 ### 🔹 Credit Card Fraud Detection  
@@ -60,7 +59,7 @@ Machine learning model for detecting fraud in imbalanced datasets.
 - Optimized for precision-recall trade-offs  
 - Designed for real-world financial systems  
 
-🔗 Portfolio: https://ajme-beige.vercel.app/  
+🔗 Portfolio: https://github.com/ajme-abes/ai-ml-portfolio/tree/main/projects/business-ml/credit-card-fraud-detection  
 
 ---
 
